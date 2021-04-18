@@ -24,9 +24,13 @@
 	<section>
 		<article>
 			<h2>Ejercicio Jquery 04 Memory</h2>
+				<div class="">
+						<input type="button" name="Empezar" value="Empezar" onclick="nuevo_Juego()">
+				</div>
 		</article>
 	</section>
 	<section class = "contenedor">
+
 				<div class "div_cartas" id="cartas">
 				</div>
 	</section>
