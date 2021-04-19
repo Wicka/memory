@@ -43,6 +43,9 @@ function gira_carta(posicion, carta, giradas){
 
           $("#"+ juego_posicion[0]).attr({"class":"encontrada"} );
           $("#"+ juego_posicion[1]).attr({"class":"encontrada"} );
+
+          $("#"+ juego_posicion[0]).attr({"onclick":""} );
+          $("#"+ juego_posicion[1]).attr({"onclick":""} );
           jugadas++;
           console.log(jugadas);
           console.log(cartas.length);
