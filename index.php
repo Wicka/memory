@@ -25,6 +25,7 @@
 		<article>
 			<h2>Ejercicio Jquery 04 Memory</h2>
 				<div class="">
+					<!--ENLACE A REFRESCAR -->
 						<input type="button" name="Empezar" value="Empezar" onclick="nuevo_Juego()">
 				</div>
 		</article>
